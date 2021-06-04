@@ -1,4 +1,6 @@
 ## Welcome to Amadon
+Code solution.
+
 There are some serious issues with this code! Follow the instructions below to understand what those issues are, and then figure out how to resolve them.
 
 Instructions
